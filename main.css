@@ -5,9 +5,11 @@ body{
 	position: fixed;
 	width: 100%;
 	height: 100%;
-	background:#595858;
+	background-image: url("http://www.zhlzw.com/UploadFiles/Article_UploadFiles/201210/20121006154614370.jpg");
 	background-repeat: no-repeat;
-	background-size: cover; 
+	background-size:120% 120%; 
+	background-position:center;
+	overflow: hidden;
 	filter: blur(30px);
 	-webkit-filter: blur(30px);
 }
